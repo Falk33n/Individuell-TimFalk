@@ -1,0 +1,14 @@
+C:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Individuell-inlämning-Tim Falk\Uppgift1-2\Uppgift1-2\bin\Debug\net8.0\Uppgift1-2.exe
+C:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Individuell-inlämning-Tim Falk\Uppgift1-2\Uppgift1-2\bin\Debug\net8.0\Uppgift1-2.deps.json
+C:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Individuell-inlämning-Tim Falk\Uppgift1-2\Uppgift1-2\bin\Debug\net8.0\Uppgift1-2.runtimeconfig.json
+C:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Individuell-inlämning-Tim Falk\Uppgift1-2\Uppgift1-2\bin\Debug\net8.0\Uppgift1-2.dll
+C:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Individuell-inlämning-Tim Falk\Uppgift1-2\Uppgift1-2\bin\Debug\net8.0\Uppgift1-2.pdb
+C:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Individuell-inlämning-Tim Falk\Uppgift1-2\Uppgift1-2\obj\Debug\net8.0\Uppgift1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Individuell-inlämning-Tim Falk\Uppgift1-2\Uppgift1-2\obj\Debug\net8.0\Uppgift1-2.AssemblyInfoInputs.cache
+C:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Individuell-inlämning-Tim Falk\Uppgift1-2\Uppgift1-2\obj\Debug\net8.0\Uppgift1-2.AssemblyInfo.cs
+C:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Individuell-inlämning-Tim Falk\Uppgift1-2\Uppgift1-2\obj\Debug\net8.0\Uppgift1-2.csproj.CoreCompileInputs.cache
+C:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Individuell-inlämning-Tim Falk\Uppgift1-2\Uppgift1-2\obj\Debug\net8.0\Uppgift1-2.dll
+C:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Individuell-inlämning-Tim Falk\Uppgift1-2\Uppgift1-2\obj\Debug\net8.0\refint\Uppgift1-2.dll
+C:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Individuell-inlämning-Tim Falk\Uppgift1-2\Uppgift1-2\obj\Debug\net8.0\Uppgift1-2.pdb
+C:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Individuell-inlämning-Tim Falk\Uppgift1-2\Uppgift1-2\obj\Debug\net8.0\Uppgift1-2.genruntimeconfig.cache
+C:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Individuell-inlämning-Tim Falk\Uppgift1-2\Uppgift1-2\obj\Debug\net8.0\ref\Uppgift1-2.dll
